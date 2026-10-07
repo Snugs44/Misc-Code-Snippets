@@ -1,0 +1,21 @@
+# Local editor and OS files
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+
+# Generated Python and C/C++ files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.o
+*.obj
+*.exe
+*.out
+/build/
+
+# Local environment values
+.env
+.env.*
+!.env.example
